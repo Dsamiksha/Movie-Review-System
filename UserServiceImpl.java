@@ -1,8 +1,8 @@
-package com.goutham.MovieApplication.service;
+package com.MovieApplication.service;
 
-import com.goutham.MovieApplication.entity.User;
-import com.goutham.MovieApplication.model.UserModel;
-import com.goutham.MovieApplication.repository.UserRepository;
+import com.MovieApplication.entity.User;
+import com.MovieApplication.model.UserModel;
+import com.MovieApplication.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
