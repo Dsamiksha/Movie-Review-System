@@ -1,7 +1,7 @@
-package com.goutham.MovieApplication.controller;
+package com.MovieApplication.controller;
 
-import com.goutham.MovieApplication.entity.Review;
-import com.goutham.MovieApplication.service.ReviewService;
+import com.MovieApplication.entity.Review;
+import com.MovieApplication.service.ReviewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
