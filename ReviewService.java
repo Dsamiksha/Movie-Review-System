@@ -1,6 +1,6 @@
-package com.goutham.MovieApplication.service;
+package com.MovieApplication.service;
 
-import com.goutham.MovieApplication.entity.Review;
+import com.MovieApplication.entity.Review;
 
 import java.util.List;
 
