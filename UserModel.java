@@ -1,4 +1,4 @@
-package com.goutham.MovieApplication.model;
+package com.MovieApplication.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
