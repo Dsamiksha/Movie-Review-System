@@ -1,4 +1,4 @@
-package com.goutham.MovieApplication;
+package com.MovieApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
