@@ -1,4 +1,4 @@
-package com.goutham.MovieApplication.entity;
+package com.MovieApplication.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
