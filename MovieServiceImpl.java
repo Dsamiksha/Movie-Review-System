@@ -1,7 +1,7 @@
-package com.goutham.MovieApplication.service;
+package com.MovieApplication.service;
 
-import com.goutham.MovieApplication.entity.Movie;
-import com.goutham.MovieApplication.repository.MovieRepository;
+import com.MovieApplication.entity.Movie;
+import com.MovieApplication.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
