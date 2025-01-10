@@ -1,7 +1,7 @@
-package com.goutham.MovieApplication.service;
+package com.MovieApplication.service;
 
-import com.goutham.MovieApplication.entity.User;
-import com.goutham.MovieApplication.model.UserModel;
+import com.MovieApplication.entity.User;
+import com.MovieApplication.model.UserModel;
 
 import java.util.List;
 
