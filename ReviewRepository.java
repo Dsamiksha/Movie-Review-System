@@ -1,6 +1,6 @@
-package com.goutham.MovieApplication.repository;
+package com.MovieApplication.repository;
 
-import com.goutham.MovieApplication.entity.Review;
+import com.MovieApplication.entity.Review;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
