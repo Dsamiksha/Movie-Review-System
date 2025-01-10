@@ -1,8 +1,8 @@
-package com.goutham.MovieApplication.controller;
+package com.MovieApplication.controller;
 
-import com.goutham.MovieApplication.entity.User;
-import com.goutham.MovieApplication.model.UserModel;
-import com.goutham.MovieApplication.service.UserService;
+import com.MovieApplication.entity.User;
+import com.MovieApplication.model.UserModel;
+import com.MovieApplication.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
