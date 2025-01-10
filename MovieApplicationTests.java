@@ -1,4 +1,4 @@
-package com.goutham.MovieApplication;
+package com.MovieApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
